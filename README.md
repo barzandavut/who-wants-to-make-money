@@ -28,7 +28,7 @@ Yeniden başlat ve çıkış yap butonları
 📂 Kurulum ve Çalıştırma
 
 Projeyi klonla:
-git clone https://github.com/kullanici-adi/quiz-uygulamasi.git
+git clone https://github.com/barzandavut/who-wants-to-make-money
 
 Proje klasörüne gir:
 cd quiz-uygulamasi
