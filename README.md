@@ -31,7 +31,7 @@ Projeyi klonla:
 git clone https://github.com/barzandavut/who-wants-to-make-money
 
 Proje klasörüne gir:
-cd quiz-uygulamasi
+cd who-wants-to-make-money quiz-uygulamasi
 
 index.html dosyasını tarayıcıda aç.
 
